@@ -1,5 +1,5 @@
 
-<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=3353D7&width=435&lines=Hello+I'm+Veysel+Kayhan" alt="Typing SVG" /></a>
+<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3B68C5&width=435&lines=Hello+I'm+Veysel+Kayhan" alt="Typing SVG" /></a>
  
   ## 🌐 Socials:
 <img align="right" alt="Coding" width="225" src="https://media.tenor.com/4uHiI_EyE94AAAAS/dance-hacker-dance.gif">
