@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Veysel Kayhan</h1>
 <h3 align="center">Java Develeloper</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/4uHiI_EyE94AAAAS/dance-hacker-dance.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/4uHiI_EyE94AAAAS/dance-hacker-dance.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veyselkayhan&label=Profile%20views&color=0e75b6&style=flat" alt="veyselkayhan" /> </p>
 
 - 🌱 I’m currently learning **JAVA OOP**
