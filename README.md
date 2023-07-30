@@ -1,38 +1,22 @@
 
-<h1 align="center">Hi 👋, I'm Veysel Kayhan</h1>
-<h3 align="center">Java Develeloper</h3>
 
-<img align="right" alt="Coding" width="250" src="https://media.tenor.com/4uHiI_EyE94AAAAd/dance-hacker-dance.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veyselkayhan&label=Profile%20views&color=0e75b6&style=flat" alt="veyselkayhan" /> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/veyselkayhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veyselkayhan) 
+<img align="right" alt="Coding" width="225" src="https://media.tenor.com/4uHiI_EyE94AAAAS/dance-hacker-dance.gif">
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=veyselkayhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=veyselkayhan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=veyselkayhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **JAVA OOP**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=veyselkayhan&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-- 📫 How to reach me **veyselkayhan13@gmail.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=veyselkayhan&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/veysel-kayhan-5417a5bb/?originalSubdomain=tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veyselkayhan" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=veyselkayhan&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<h3>Languages and Tools:</h3>
-  <p>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-    </a>
-  </p>
-  
-  <div class="stats">
-    <p> 
-    </p>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veyselkayhan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </p>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=veyselkayhan&show_icons=true&locale=en" alt="GitHub Stats" />
-    </p>
-    <p>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=veyselkayhan&" alt="GitHub Streak" />
-    </p>
-  </div>
-</body>
-</html>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
