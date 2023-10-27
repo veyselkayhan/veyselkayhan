@@ -42,14 +42,33 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=veyselkayhan&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<div align="center"> 
+ 
+ ![](https://github-profile-trophy.vercel.app/?username=veyselkayhan&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+</div>
+
+
 
 ## 🔝 Top Contributed Repo
+<div align="center"> 
+ 
 ![](https://github-contributor-stats.vercel.app/api?username=veyselkayhan&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+ 
+</div>
 
----
+
+<div align="center"> 
+ 
 [![](https://visitcount.itsvg.in/api?id=veyselkayhan&icon=0&color=4)](https://visitcount.itsvg.in)
+ 
+</div>
 
+
+<div align="center"> 
+ 
 ![snake gif](https://github.com/veyselkayhan/veyselkayhan/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
